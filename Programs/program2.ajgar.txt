@@ -1,0 +1,8 @@
+program2 = """
+LIKHO "PROGRAM 2"
+BARABAR x 0
+JABTAK x 5 <
+    LIKHO x
+    BARABAR x x 1 +
+SAMAPT_JABTAK
+"""

@@ -1,0 +1,17 @@
+'''Program3 = """
+LIKHO "ChidiUdd"
+BARABAR limit 100
+BARABAR i 1
+JABTAK i limit <
+    AGAR i 3 % 0 ==
+        LIKHO "chidi"
+SAMAPT_AGAR
+    AGAR i 5 % 0 ==
+        LIKHO "udd"
+SAMAPT_AGAR
+    AGAR i 3 % 0 == ! i 5 % 0 == ! &
+        LIKHO i
+SAMAPT_AGAR
+    BARABAR i i 1 +
+SAMAPT_JABTAK
+"""'''

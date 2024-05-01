@@ -1,0 +1,12 @@
+program1 = """
+#LIKHO "PROGRAM 1"
+#BARABAR x 10
+#BARABAR y 20
+#LIKHO x
+#LIKHO y
+#AGAR x y >
+ #   LIKHO "x zyada hai y se"
+#WARNA
+ #   LIKHO "y zyada hai x se"
+#SAMAPT_AGAR
+#"""
